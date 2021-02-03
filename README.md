@@ -10,5 +10,6 @@ Anjali Chaturvedi
 Shreya Shrotriya
 
 Medha Tiwari
+Kirti
 
 Jyoti Mathur
