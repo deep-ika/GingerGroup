@@ -7,4 +7,5 @@ Meet The Ginger Owls!
 ## Name
 Anjali Chaturvedi
 Anjali Sahu
+Medha Tiwari
 
