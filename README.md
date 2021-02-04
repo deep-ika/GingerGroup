@@ -6,6 +6,7 @@ Meet The Ginger Owls!
 
 ## Name
 Anjali Chaturvedi
+Anjali Sahu
 
 Shreya Shrotriya
 
