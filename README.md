@@ -6,11 +6,13 @@ Meet The Ginger Owls!
 
 ## Name
 Anjali Chaturvedi
+
 Anjali Sahu
 
 Shreya Shrotriya
 
-Medha Tiwari 
+Medha Tiwari
+
 Kirti
 
 Jyoti Mathur
