@@ -15,6 +15,8 @@ Medha Tiwari
 
 Kirti
 
+Deepika Kumari
+
 Jyoti Mathur
 
 Priyamvada Priyadarshani
