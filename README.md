@@ -15,6 +15,8 @@ Medha Tiwari
 
 Kirti
 
+Deepika Kumari
+
 Jyoti Mathur
 
 Priyamvada Priyadarshani
@@ -25,4 +27,4 @@ Ragavula Nandini
 
 Lasya Sree
 
-MK KNIGHT
+MK KNIGHT 
